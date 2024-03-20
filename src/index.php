@@ -7,7 +7,7 @@
 </head>
 <body>
     <div>
-        <a href="register.php">Registration</a> ||<a href="login.php">Login</a>
+        <a href="registration.php">Registration</a> ||<a href="login.php">Login</a>
     </div>
 </body>
 </html>
