@@ -8,7 +8,7 @@
 <body>
     <div>
         <h3>Login Form</h3>
-        <form method="post" action="">
+        <form method="post" action="login_action.php">
             Email<br/>
             <input type="email" name="email" placeholder="Enter Email" /><br/>
             Password<br/>

@@ -8,11 +8,13 @@
 <body>
     <div>
         <h3>Registration Form</h3>
-        <form method="post" action="">
+        <form method="post" action="register_action.php">
             First name<br/>
             <input type="text" name="fname" placeholder="First Name" /><br/>
             Last name<br/>
             <input type="text" name="lname" placeholder="Last Name" /><br/>
+            Gender<br/>
+            <input type="text" name="gender" placeholder="Add gender" /><br/>
             Email<br/>
             <input type="email" name="email" placeholder="Enter Email" /><br/>
             Password<br/>
